@@ -1,0 +1,4 @@
+kagglehub>= 1.0.0
+pandas == 3.0.1
+
+
