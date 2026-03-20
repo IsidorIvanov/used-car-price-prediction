@@ -209,3 +209,5 @@ __marimo__/
 #UsedDataSet
 DataSet/
 .idea/
+src/*.png
+models/
